@@ -1,4 +1,4 @@
-# Artificial-Neural-Networks
+## Bank-Churn-Prediction
 
 **Project Description - Bank Churn Prediction**
 
